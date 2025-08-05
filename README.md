@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @The23ird
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate and work on simple projects.
+- 👀 I am a Storyteller, Analyst and Researcher
+- 🌱 I’m currently learning Python, havinf learnt and relearning SQL
+- 💞️ I’m looking to collaborate and work on simple and complex projects.
 - 📫 you can reach me via cloudryther@gmail.com
 
 <!---
